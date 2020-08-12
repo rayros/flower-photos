@@ -56,3 +56,10 @@ export const shiftHeight = (image: jimp, maxShift: number) => {
   }
   return image;
 };
+
+// const test = async () => {
+//   let originalImage = await jimp.read('photos/flower_photos/daisy/5673728_71b8cb57eb.jpg');
+//   shiftHeight(originalImage, 0.15).writeAsync('test2.jpg');
+// }
+
+// test()

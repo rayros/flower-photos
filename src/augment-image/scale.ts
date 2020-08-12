@@ -48,7 +48,7 @@ export const scale = (image: jimp, scaleRange: number) => {
 };
 
 // const test = async () => {
-//   let originalImage = await jimp.read('photos/flower_photos/daisy/5547758_eea9edfd54_n.jpg');
+//   let originalImage = await jimp.read('photos/flower_photos/daisy/5673728_71b8cb57eb.jpg');
 //   scale(originalImage, 0.5).writeAsync('test2.jpg');
 // }
 

@@ -12,8 +12,8 @@ export const rotate = (image: jimp, degRange: number) => {
 };
  
 // const test = async () => {
-//   let originalImage = await jimp.read('photos/flower_photos/daisy/5547758_eea9edfd54_n.jpg');
-//   rotate(originalImage, -45).writeAsync('test2.jpg');
+//   let originalImage = await jimp.read('photos/flower_photos/daisy/5673728_71b8cb57eb.jpg');
+//   rotate(originalImage, 25).writeAsync('test2.jpg');
 // }
 
 // test()
