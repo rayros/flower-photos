@@ -2,4 +2,6 @@ node_modules
 dist
 photos
 flower-model
+quantized-flower-model
+quantized-graph-flower-model
 env
